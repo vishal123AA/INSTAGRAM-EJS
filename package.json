@@ -1,0 +1,23 @@
+{
+  "name": "instagram-ejs",
+  "version": "1.0.0",
+  "description": "i am creating a basic instagram profile routes using node Ejs module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishal123AA/INSTAGRAM-EJS.git"
+  },
+  "author": "VISHAL KUMAR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishal123AA/INSTAGRAM-EJS/issues"
+  },
+  "homepage": "https://github.com/vishal123AA/INSTAGRAM-EJS#readme",
+  "dependencies": {
+    "ejs": "^6.0.1",
+    "express": "^5.2.1"
+  }
+}
